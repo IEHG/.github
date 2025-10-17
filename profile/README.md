@@ -1,4 +1,4 @@
-## Welcome at the GitBub of the IEHG!
+## Welcome at the GitHub of the IEHG!
 
 The Inland ENC Harmonization Group (IEHG) was formed in 2003 by North America and Europe to facilitate the development of international standards for Inland ENC data. Russia has joined the IEHG soon after that and Brazil in 2007, China in 2009, South Korea in 2010, Venezuela and Peru in 2011. The IEHG is comprised of representatives from government, industry and academia. European participants take part on behalf of the Temporary Working Group Inland ECDIS of the European Committee for drawing up standards in the field of inland navigation (CESNI), the former European Inland ECDIS Expert Group. The North American participants are members of the North American Inland ENC Ad Hoc working group that was formed in 2002. The IEHG meets normally once per year. However, most of the work is accomplished via e-mail correspondence. 
  
